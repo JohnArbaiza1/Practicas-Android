@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EjerciciosPracticaLUnes</string>
+    <string name="titleEjer2">Verificador de Edad</string>
+    <string name="indicacion">Ingrese su edad a continuacion</string>
+    <string name="btnEjer2">Verificar</string>
+    <string name="titleEjer3">Adivina el número</string>
+    <string name="mensaje">¿Crees ser capas de adivinar el numero?</string>
+</resources>
