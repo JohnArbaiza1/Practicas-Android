@@ -15,3 +15,10 @@ A continuación, se agrega un link que nos dirigirá hacia otro repositorio que 
 en cada una de las clases, así como de manera autodidacta.
 
 * https://github.com/John-Arbaiza/Android-Practicas
+
+* En caso de presentarse algún error a la hora de ejecutar los proyectos y no encuentra solución agregar la siguiente línea en el archivo gradle.properties:
+  ```
+  android.overridePathCheck=true
+  ```
+
+  
